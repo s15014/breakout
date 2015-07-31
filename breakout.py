@@ -1,3 +1,4 @@
+n15010,n15003
 from tkinter import *
 import random
 import time
